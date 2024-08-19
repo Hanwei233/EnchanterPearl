@@ -1,0 +1,10 @@
+{
+  "item.enchanterpearl.enchanter_pearl": "附魔师宝珠",
+  "message.enchanterpearl.imcompatibility": "该物品不兼容的附魔为:",
+  "tooltip.enchanterpearl.1": "右键将经验存入宝珠",
+  "tooltip.enchanterpearl.2": "潜行右键取出经验",
+  "tooltip.enchanterpearl.3": "物品栏右键附魔物品显示其冲突附魔",
+  "tooltip.enchanterpearl.4": "取出经验时修补附有经验修补的物品",
+  "tooltip.enchanterpearl.5": "%1$s/%2$s 经验已存储",
+  "tooltip.enchanterpearl.broken": "已破裂!"
+}

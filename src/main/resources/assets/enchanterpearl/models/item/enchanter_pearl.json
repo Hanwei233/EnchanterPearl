@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "enchanterpearl:item/enchanter_pearl"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "enchanterpearl:broken": 1
+            },
+            "model": "enchanterpearl:item/enchanter_pearl_broken"
+        }
+    ]
+}

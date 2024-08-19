@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "enchanterpearl:item/enchanter_pearl_broken"
+    }
+}
